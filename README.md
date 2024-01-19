@@ -7,7 +7,7 @@ Welcome to my GitHub page! I'm a full-stack developer with a passion for creatin
 ### **AI News Buddy**
 **Description:** An advanced SPA that scrapes daily tech news, summarizes them using GPT-3.5, categorizes content and answers questions about articles.<br><br>
 **Tools & Technologies:** React, MongoDB, Node.js, Express, Node Cron, React Markdown, GPT-4/GPT-3.5 Integration, Cheerio, JavaScript, HTML, CSS<br><br>
-Demo: [Live Website](https://webxpert.io)<br>
+Demo: [Live Website](https://sebthedeveloper.com/demos/ai-news-buddy)<br>
 GitHub: [View Repository](https://github.com/sebthedeveloper/ai-news-scraper)<br><br>
 
 ## 📚 Skills & Expertise
